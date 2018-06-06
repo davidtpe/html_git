@@ -1,0 +1,5 @@
+2018/06/06 - davidtpe
+首次建立一個 Giihub repository
+git remote add origin https://github.com/davidtpe/html_git.git
+git push -u origin master
+----完成推送---
