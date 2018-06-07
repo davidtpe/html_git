@@ -3,3 +3,5 @@
 git remote add origin https://github.com/davidtpe/html_git.git
 git push -u origin master
 ----完成推送---
+在 GitHub 修改本文件，儲存之後
+在 Local PC 端就下達 git pull 指令，就可以更新(同步)到 Local PC 端。
